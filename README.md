@@ -1,7 +1,4 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=🧠+Ultimate+Discord+Account+Generator;🌐+By+Termwave_;⚡Email+Verification+%7C+Token+Extractor" alt="Typing SVG" />
-</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Termwave.;I+Create+Ultimate+Tools.+" alt="Typing SVG" /></h1>
 
 ```
  █    ██  ██▓  ▄▄▄█████▓ ██▓ ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓▓█████ 
@@ -97,3 +94,4 @@ tokens.txt ➤ format: email:password:token
 ---
 
 > ⚡ Feel free to fork, tweak, or contribute. Stay safe — and don’t abuse this tool.  
+
