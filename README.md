@@ -94,5 +94,35 @@ tokens.txt ➤ format: email:password:token
 ---
 
 > ⚡ Feel free to fork, tweak, or contribute. Stay safe — and don’t abuse this tool.  
+### 📡 IncognitoMail Setup & Access
+
+#### 🛠 1. Setup Your Custom Domain (Required First)
+
+To receive mail on your own domain (e.g. `termwave.in`):
+
+1. Go to [https://incognitomail.co/](https://incognitomail.co/)
+2. Navigate to the **⚙️ Settings** tab
+3. Under **Custom Domain**, enter: `termwave.in`
+4. Add the following MX record in your domain DNS:
+
+```
+Host: @  
+Value: mail.incognitomail.co  
+Priority: 10
+```
+
+---
+
+#### 📥 2. Access Your Inbox
+
+After setting up your domain:
+
+1. Go to [https://incognitomail.co/](https://incognitomail.co/)
+2. Navigate to the **⚙️ Settings** tab
+3. Under **Custom Domain**, enter: `termwave.in`
+4. Click **Create Custom Email ID**
+5. Enter your email ID (e.g. `verify@termwave.in`)
+6. (Optional) Enter your token/password if required
+7. Click `Create` to open your inbox
 
 
