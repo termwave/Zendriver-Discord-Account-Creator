@@ -79,10 +79,10 @@ tokens.txt ➤ format: email:password:token
 
 ### 👨‍💻 Author
 
-- 🧬 Created by: **`Termwave_`**
-- 📎 Discord: `termwave`
+- 🧬 Created by: **`Termwave`**
+- 📎 Discord: `mfxe`
 - 💻 License: MIT
-
+- ⚡ Website: [termwave.in](https://termwave.in) | [termwave.space](https://termwave.space)
 ---
 
 ### 💬 Terminal Quote
@@ -94,4 +94,5 @@ tokens.txt ➤ format: email:password:token
 ---
 
 > ⚡ Feel free to fork, tweak, or contribute. Stay safe — and don’t abuse this tool.  
+
 
