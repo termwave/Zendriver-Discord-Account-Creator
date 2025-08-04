@@ -1,0 +1,10 @@
+requests
+psutil
+colorama
+zendriver
+pystyle
+notify-py
+PyQt6
+urllib3
+beautifulsoup4
+httpx
